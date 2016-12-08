@@ -87,11 +87,21 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
-
-
-
-
+#wrapper {
+	auto:left; auto:right width:960px;
+	}
+h1 {
+	font-family: "Oswald", "Alegreya Sans SC", "Verdana", Arial, Sans-serif; background-color: red; color; white;
+	}
+#subh1 {
+	font-family: "Antic Slab", Times, Serif; color: white;
+	}
+#menu {
+	background-color: red; color:white; width:960px; height:192px; position:absolute; top:0;
+	}
+#buttonheader {
+	background-color: red; color:white; text-align:center; width:31px;
+	}
 
 
 
