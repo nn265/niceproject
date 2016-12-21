@@ -118,7 +118,11 @@ button {
 a {
 	text-decoration:none; color:white; font-family:"Open Sans", Sans-serif;
 	}
-	
+#leftmargin{position:absolute top:0px left:0px width:31px
+	}
+#rightmargin{{position:absolute top:0px right:0px width:31px
+        }
+
 	
 	
 	
